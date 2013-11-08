@@ -109,7 +109,7 @@
         }
 
         if(this.options.idealHeight === null) {
-            this.options.idealHeight = $(this.element).height() / 2;
+            this.options.idealHeight = $(this.element).height() / 4;
         }
 
         if(this.options.background !== null) {
