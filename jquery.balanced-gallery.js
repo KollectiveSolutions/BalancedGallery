@@ -371,7 +371,7 @@
         }
 
         if(balancedGallery.element !== document.body) {
-           // $(balancedGallery.element).css({overflow:'scroll'});
+            $(balancedGallery.element).css({overflow:'scroll'});
         }
 
     }
